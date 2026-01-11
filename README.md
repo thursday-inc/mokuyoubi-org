@@ -1,12 +1,12 @@
 # 🌱 Hello! 🌱
 
-Welcome to **mokuyoubi.org**'s website.
+Welcome to **[mokuyoubi.org](https://mokuyoubi.org)**'s website!
 
 This domain is used for **application-related services**.
 
 ---
 
-## 🚀 About This Project
+## 🎨 About This Project
 
 - Simple and clean design
 - Application-related services hub
@@ -14,11 +14,19 @@ This domain is used for **application-related services**.
 
 ---
 
-### 🎨 Theme Colors
+## 🌿 Theme Colors
 
-- Light Green: `#dfffd6`
-- Forest Green: `#2e7d32`
-- White: `#ffffff`
+| Color | Hex |
+|-------|-----|
+| Light Green | `#dfffd6` |
+| Forest Green | `#2e7d32` |
+| White | `#ffffff` |
+
+---
+
+## 🔗 Visit the Website
+
+[![Visit mokuyoubi.org](https://img.shields.io/badge/Visit-Website-2e7d32?style=for-the-badge&logo=web&logoColor=white)](https://mokuyoubi.org)
 
 ---
 
